@@ -1925,10 +1925,9 @@
   resolved "https://registry.yarnpkg.com/@trysound/sax/-/sax-0.2.0.tgz#cccaab758af56761eb7bf37af6f03f326dd798ad"
   integrity sha512-L7z9BgrNEcYyUYtF+HaEfiS5ebkh9jXqbszz7pC0hRBPaatV0XjSD3+eHrpqFemQfgwiFF0QPIarnIihIDn7OA==
 
-"@twilio/video-processors@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@twilio/video-processors/-/video-processors-2.1.0.tgz#18dd8edb3a5097ba0a062983c82572eb907a4627"
-  integrity sha512-w2g2Ic/+COp5tSw4G20D3Grm+DXdsqc5mDmXlg0keYAAhDytTP7QKr6vL2qsnN/U4h9zBh8LRZL/OGA6q7dbIw==
+"@twilio/video-processors@https://github.com/eVisit/twilio-video-processors.js#2.1.1-evisit":
+  version "2.1.1-dev"
+  resolved "https://github.com/eVisit/twilio-video-processors.js#4e33ca992161ccc8dfb2c502e069a56d3ceaacaf"
 
 "@types/aria-query@^5.0.1":
   version "5.0.4"
